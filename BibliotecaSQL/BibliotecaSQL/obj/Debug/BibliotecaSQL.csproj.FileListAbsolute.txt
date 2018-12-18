@@ -1,0 +1,78 @@
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.exe.config
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.exe
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.pdb
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csprojResolveAssemblyReference.cache
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\MainWindow.g.cs
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\DevPrestamo.g.cs
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\MantLibro.g.cs
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\MantSocio.g.cs
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\RegPrestamo.g.cs
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\App.g.cs
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL_MarkupCompile.cache
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL_MarkupCompile.lref
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\MainWindow.baml
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\DevPrestamo.baml
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\MantLibro.baml
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\MantSocio.baml
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\RegPrestamo.baml
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.g.resources
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.Properties.Resources.resources
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csproj.GenerateResource.Cache
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csproj.CoreCompileInputs.cache
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.exe
+G:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.pdb
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.exe.config
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.exe
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.pdb
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csprojResolveAssemblyReference.cache
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\MainWindow.g.cs
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\DevPrestamo.g.cs
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\MantLibro.g.cs
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\MantSocio.g.cs
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\RegPrestamo.g.cs
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\App.g.cs
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL_MarkupCompile.cache
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL_MarkupCompile.lref
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\MainWindow.baml
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\DevPrestamo.baml
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\MantLibro.baml
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\MantSocio.baml
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\Ventanas\RegPrestamo.baml
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.g.resources
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.Properties.Resources.resources
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csproj.GenerateResource.Cache
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.exe
+F:\Clases\ADAT\Unidad2\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.pdb
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\MainWindow.g.cs
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\MantLibro.g.cs
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\App.g.cs
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL_MarkupCompile.cache
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL_MarkupCompile.lref
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.exe.config
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csprojResolveAssemblyReference.cache
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.exe
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.pdb
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\MainWindow.baml
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\MantLibro.baml
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.g.resources
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.Properties.Resources.resources
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csproj.GenerateResource.Cache
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.exe
+F:\CURSO 2017-18\adat\UNIDADES\Unidad2\Practica\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.pdb
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.exe.config
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.exe
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\bin\Debug\BibliotecaSQL.pdb
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csprojAssemblyReference.cache
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\MainWindow.g.cs
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\MantLibro.g.cs
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\App.g.cs
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL_MarkupCompile.cache
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL_MarkupCompile.lref
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\MainWindow.baml
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\MantLibro.baml
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.g.resources
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.Properties.Resources.resources
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csproj.GenerateResource.cache
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.csproj.CoreCompileInputs.cache
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.exe
+C:\Users\dam209\Desktop\ACDA\Tema 4 - Conexion SQL\01 - Biblioteca\BibliotecaSQL\BibliotecaSQL\obj\Debug\BibliotecaSQL.pdb
